@@ -1,4 +1,4 @@
-//This program uses dialog boxes and 3 parallel arrays. You can enter a 4 digit number to fins a student's name and GPA.
+//This program uses dialog boxes and 3 parallel arrays. You can enter a 4 digit number to find a student's name and GPA.
 //CSIS 212 - Fall 2019 B03
 
 
